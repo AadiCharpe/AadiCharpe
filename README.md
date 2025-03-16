@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AadiCharpe
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning HTML/CSS/JS
+- 🌱 I’m currently learning HTML/CSS/JS & Python
 - 😄 Pronouns: he/him
   
 My goal is to get 500 contributions by the end of 2025 !!!
